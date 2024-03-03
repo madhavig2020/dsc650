@@ -1,0 +1,51 @@
+auction_id,item_description,category,min_price,listing_bidder_id,final_bidder_internal_id,final_bid_price,bid_end_date,bid_status
+10001,Tradition Idli Steamer,Small Houseware,36,34,,,3/6/2024,active
+10002,Golfing Cart,Sporting Goods,120,19,,,3/4/2024,active
+10003,PingPong Table,Sporting Goods,180,31,,,3/8/2024,active
+10004,Magic Tree House Series,Used Books & Magazines,200,42,,,3/6/2024,active
+10005,DogMan Series,Used Books & Magazines,75,18,,,3/4/2024,active
+10006,Teachers Teach Math,Used Books & Magazines,350,39,25,421,3/3/2024,pending
+10007,Rolex,Watches,3977,42,,,3/7/2024,active
+10008,Rolex Submariner,Watches,5000,28,,,3/8/2024,active
+10009,Rolex Datejust,Watches,8000,24,37,8175,2/29/2024,closed
+10010,Garden Hose 50 feet,"Yard, Garden & Garage Equipment",30,16,,,3/8/2024,active
+10011,Lawn Mover,"Yard, Garden & Garage Equipment",100,12,,,3/7/2024,active
+10012,Samsung Microwave,Appliances,4325,16,,,3/8/2024,active
+10013,GE DishWasher,Appliances,3803,27,,,3/5/2024,active
+10014,0.89 ctw Diamond Ring - 14KT White Gold,"Art, Antiques & Collectibles",9169,16,,,3/4/2024,active
+10015,1.09 ctw Diamond Bangle Bracelet - 14KT White Gold,"Art, Antiques & Collectibles",7686,27,,,3/6/2024,active
+10016,1.94 ctw Diamond Bracelet - 14KT Two-Tone Gold,"Art, Antiques & Collectibles",1812,27,39,2147,3/1/2024,closed
+10017,RedCross Shirts,Benefit & Charity,856,4,,,3/6/2024,active
+10018,SavePlanet,Benefit & Charity,9975,44,,,3/4/2024,active
+10019,EarthQuake,Benefit & Charity,6973,48,28,7099,2/28/2024,closed
+10020,"30"" Joits",Building Materials,4165,29,,,3/4/2024,active
+10021,14KT White Gold 1.81 ctw Fancy Brown Diamond Ring,Building Materials,940,13,16,1157,3/1/2024,closed
+10022,Tesla Cyber truck,Cars & Vehicles,165000,17,,,3/5/2024,active
+10023,Tesla S3,Cars & Vehicles,50000,15,,,3/7/2024,active
+10024,Honda Accord 2023,Cars & Vehicles,2927,50,37,3251,3/3/2024,pending
+10025,Chinese New Year,"Clothing, Shoes & Accessories",309,29,,,3/5/2024,active
+10026,Indian Kathak Dress,"Clothing, Shoes & Accessories",3203,44,,,3/4/2024,active
+10027,Dell Inspiron,Computers,2632,11,,,3/7/2024,active
+10028,iMac 2020,Computers,6876,1,,,3/8/2024,active
+10029,Macbook Pro,Computers & Electronics,2494,34,,,3/6/2024,active
+10030,Google Chrome Book 2021,Computers & Electronics,258,6,,,3/4/2024,active
+10031,Samsung laptop,Computers & Electronics,1478,36,3,1776,3/3/2024,pending
+10032,Bose Audio,Electronics,5696,32,,,3/8/2024,active
+10033,Samsung Sound Bar,Electronics,5129,46,,,3/6/2024,active
+10034,EV Scooter,Estate & Personal Property,450,21,,,3/7/2024,active
+10035,Honda Two Wheeler,Estate & Personal Property,5000,38,,,3/4/2024,active
+10036,Dinning Table for 8,Furniture,120,14,,,3/6/2024,active
+10037,Ikea Computer Desk,Furniture,45,39,,,3/5/2024,active
+10038,Queen BedFrame,Furniture,350,30,50,571,3/3/2024,pending
+10039,"Pair of Elaborate 18K Yellow Gold Pearl, Diamond & Gilson Emerald earrings",Gemstones,678,48,,,3/4/2024,active
+10040,"Pair of Italian 14k Gold Ruby, Emerald, Sapphire & Diamond Earrings",Gemstones,8094,18,,,3/8/2024,active
+10041,Pearl and Diamond Necklace - 14KT White Gold,Gemstones,6904,20,27,7153,3/1/2024,closed
+10042,Pearl and Diamond Necklace - 14KT White Gold$1.00,Jewelry,9149,38,,,3/6/2024,active
+10043,Pearl and Diamond Necklace - 14KT Yellow Gold,Jewelry,3420,27,,,3/5/2024,active
+10044,Pearl and Diamond Necklace - 14KT Yellow Gold,Jewelry,2265,49,45,2652,2/27/2024,closed
+10045,Blackout 8 feet curtains,"Linens, Curtains & Hardware",35,45,,,3/6/2024,active
+10046,Curtain Rods,"Linens, Curtains & Hardware",15,34,,,3/4/2024,active
+10047,Site in LakeTahoe,Personal Property,250000,5,,,3/6/2024,active
+10048,Remodelled ADU,Personal Property,35000,24,,,3/4/2024,active
+10049,Farm Land 50 acres,Personal Property,300000,32,18,320434,3/3/2024,pending
+10050,Chinese Dinner Set,Small Houseware,50,20,,,3/8/2024,active
